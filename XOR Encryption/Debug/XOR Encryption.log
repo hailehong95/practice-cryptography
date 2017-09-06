@@ -1,0 +1,10 @@
+﻿  main.c
+c:\users\hai\desktop\cryptography\xor encryption\main.c(18): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\hai\desktop\cryptography\xor encryption\main.c(20): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(560): note: see declaration of 'strlwr'
+c:\users\hai\desktop\cryptography\xor encryption\main.c(24): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\hai\desktop\cryptography\xor encryption\main.c(35): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  XOR Encryption.vcxproj -> C:\Users\Hai\Desktop\Cryptography\Debug\XOR Encryption.exe
+  XOR Encryption.vcxproj -> C:\Users\Hai\Desktop\Cryptography\Debug\XOR Encryption.pdb (Partial PDB)
