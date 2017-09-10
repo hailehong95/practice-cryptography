@@ -1,0 +1,23 @@
+﻿  main.c
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(20): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(52): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(66): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(67): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(68): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(560): note: see declaration of 'strlwr'
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(83): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(84): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(100): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(101): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(560): note: see declaration of 'strlwr'
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(102): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(560): note: see declaration of 'strlwr'
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(122): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(123): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(560): note: see declaration of 'strlwr'
+c:\users\hai\desktop\cryptography\vigenere encryption\main.c(124): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(560): note: see declaration of 'strlwr'
+  Vigenere Encryption.vcxproj -> C:\Users\Hai\Desktop\Cryptography\x64\Debug\Vigenere Encryption.exe
+  Vigenere Encryption.vcxproj -> C:\Users\Hai\Desktop\Cryptography\x64\Debug\Vigenere Encryption.pdb (Partial PDB)
