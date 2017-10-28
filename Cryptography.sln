@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vigenere Encryption", "Vige
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Caesar Cipher", "Caesar Cipher\Caesar Cipher.vcxproj", "{C58454CE-DB13-4ECA-9C32-334F3790B89E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hex Encryption", "Hex Encryption\Hex Encryption.vcxproj", "{EACEDFB2-5E45-4F98-A1F3-8BC88A29290B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{C58454CE-DB13-4ECA-9C32-334F3790B89E}.Release|x64.Build.0 = Release|x64
 		{C58454CE-DB13-4ECA-9C32-334F3790B89E}.Release|x86.ActiveCfg = Release|Win32
 		{C58454CE-DB13-4ECA-9C32-334F3790B89E}.Release|x86.Build.0 = Release|Win32
+		{EACEDFB2-5E45-4F98-A1F3-8BC88A29290B}.Debug|x64.ActiveCfg = Debug|x64
+		{EACEDFB2-5E45-4F98-A1F3-8BC88A29290B}.Debug|x64.Build.0 = Debug|x64
+		{EACEDFB2-5E45-4F98-A1F3-8BC88A29290B}.Debug|x86.ActiveCfg = Debug|Win32
+		{EACEDFB2-5E45-4F98-A1F3-8BC88A29290B}.Debug|x86.Build.0 = Debug|Win32
+		{EACEDFB2-5E45-4F98-A1F3-8BC88A29290B}.Release|x64.ActiveCfg = Release|x64
+		{EACEDFB2-5E45-4F98-A1F3-8BC88A29290B}.Release|x64.Build.0 = Release|x64
+		{EACEDFB2-5E45-4F98-A1F3-8BC88A29290B}.Release|x86.ActiveCfg = Release|Win32
+		{EACEDFB2-5E45-4F98-A1F3-8BC88A29290B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
