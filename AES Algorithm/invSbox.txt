@@ -1,6 +1,5 @@
-
- Hop the hoan vi nguoc: 
- invSBox[16*16] = {
+Hop the hoan vi nguoc: 
+invSBox[16*16] = {
 52, 09, 6A, D5, 30, 36, A5, 38, BF, 40, A3, 9E, 81, F3, D7, FB, 
 7C, E3, 39, 82, 9B, 2F, FF, 87, 34, 8E, 43, 44, C4, DE, E9, CB, 
 54, 7B, 94, 32, A6, C2, 23, 3D, EE, 4C, 95, 0B, 42, FA, C3, 4E, 
