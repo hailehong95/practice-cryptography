@@ -71,7 +71,7 @@ char* ROT(char *s, int x)
 
 	for (int i = 0; i < length; i++)
 		if (s[i] >= 'A' && s[i] <= 'Z')
-			str[i] -= 32;	// Khôi phục lại các ký tự in hoa
+			str[i] -= 32;	// Khôi phục lại các ký tự in hoa 
 
 	return str;
 }

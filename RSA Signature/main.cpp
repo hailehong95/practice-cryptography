@@ -55,7 +55,7 @@ int main()
 		char *Hash_Value = new char[1000];
 		cout << "\nNhap chuoi chu ky so: ";
 		rewind(stdin);
-		cin.getline(Hash_Value, 1000);//cin >> BanRo;
+		cin.getline(Hash_Value, 1000);//cin >> BanRo; 
 		RSA_Signature_Very(Hash_Value, e, n);
 
 		delete[] Hash_Value;

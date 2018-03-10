@@ -32,7 +32,7 @@ int main()
 		// Sinh khóa mới từ khóa người dùng nhập sao cho khóa mới bằng với chiều dài thông điệp
 		char *KeyGen = KeyGenerator(BanRo, Khoa);
 
-		// Tiến hành mã hóa
+		// Tiến hành mã hóa 
 		char *BanMa = VigenereEncryption(BanRo, KeyGen);
 
 		// In kết quả sau khi mã hóa

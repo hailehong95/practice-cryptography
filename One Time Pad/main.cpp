@@ -26,7 +26,7 @@ int main()
 	rewind(stdin);
 	switch (choice)
 	{
-	case 1: // Encoder
+	case 1: // Encoder 
 	{
 		string Plaintext;
 		cout << "Plaintext: "; getline(cin, Plaintext);

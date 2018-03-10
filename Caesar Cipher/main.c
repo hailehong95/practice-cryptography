@@ -28,7 +28,7 @@ int main()
 	}
 	case 2:
 	{
-		int k = 5;
+		int k = 5; 
 		char BanMa[100];
 		NhapChuoi(BanMa);
 

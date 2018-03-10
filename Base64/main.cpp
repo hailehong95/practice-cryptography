@@ -6,7 +6,7 @@
 using namespace std;
 
 /*
-* NOTE: BASE64 ĐANG DỞ, CHƯA HOÀN THÀNH
+* NOTE: BASE64 ĐANG DỞ, CHƯA HOÀN THÀNH 
 */
 
 void ShowMenu();

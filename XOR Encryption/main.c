@@ -30,6 +30,7 @@ void ShowMenu()
 	printf("XOR Encode/Decode\n");
 	printf("-----------------\n");
 }
+
 char* XOR(char *s, char *key)
 {
 	char *str = strdup(s);

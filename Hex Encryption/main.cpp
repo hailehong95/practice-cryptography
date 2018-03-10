@@ -34,7 +34,7 @@ int main()
 		cout << Ciphertext << endl;
 		break;
 	}
-	case 2: // Decoder
+	case 2: // Decoder 
 	{
 		string Ciphertext, strBinary, Plaintext;
 		cout << "Input (Ciphertext): "; getline(cin, Ciphertext);

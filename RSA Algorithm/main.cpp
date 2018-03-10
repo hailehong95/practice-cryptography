@@ -69,7 +69,7 @@ int main()
 		break;
 	case 2:
 	{
-		//EncDecStr(d, n);
+		//EncDecStr(d, n); 
 		char *BanMa = new char[1000];
 		cout << "\nNhap ban ma (hex): ";
 		cin >> BanMa;
