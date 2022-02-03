@@ -1,0 +1,10 @@
+- Advanced Encryption Standard (AES)
+- Base64
+- Caesar Cipher
+- Hex Encode/Decode
+- One-time Pad
+- ROT
+- RSA Algorithm
+- RSA Signature
+- Vigenère Cipher
+- XOR Encode/Decode
